@@ -17,7 +17,7 @@ cout<<"//Ingrese el segundo numero a sumar//"<<endl;
 cin>>num2;	
 cout<<endl;   
 suma=num+num2;
-cout<<"La suma de los dos numeros:   "<<suma<<endl;	
+cout<<"Suma de los dos numeros:   "<<suma<<endl;	
 	
 	return 0;
 }
